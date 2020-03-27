@@ -26,8 +26,8 @@ he plans to dress in his Sunday clothes to win her over at the Harvest
 Fair.
 
 Some of my favorite performances of this song have been done by:
-1.[The Coach House Family](https://www.youtube.com/watch?v=f1Dp20CG6rw)
-2.[The Angelo Family](https://www.youtube.com/watch?v=mkTI1L2Ap3s)
+- [The Coach House Family](https://www.youtube.com/watch?v=f1Dp20CG6rw)
+- [The Angelo Family](https://www.youtube.com/watch?v=mkTI1L2Ap3s)
 
 The second was a slower, whistful song called 
 [The Black Velvet Band](https://www.youtube.com/watch?v=ejdAoEDhqMA).
@@ -39,4 +39,4 @@ Monday and sentenced to "seven years of penal servitude" in
 which is now the island of Tasmania off the coast of Australia.
 
 My favorite performance of this song has been done by:
-[Luke Kelly and The Dubliners](https://www.youtube.com/watch?v=CBRQM0vErH8)
+- [Luke Kelly and The Dubliners](https://www.youtube.com/watch?v=CBRQM0vErH8)
