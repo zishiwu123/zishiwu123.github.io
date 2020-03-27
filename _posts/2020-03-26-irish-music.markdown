@@ -54,3 +54,11 @@ From the fast and upbeat songs, my favorites are:
   - [The Clancy Brothers](https://www.youtube.com/watch?v=Y-wAmgxLdYo)
   - [Fianne](https://www.youtube.com/watch?v=to02fQV5fzA)
   - [Tommy Makem & Barley Bree](https://www.youtube.com/watch?v=zXspcpsKHtw)
+
+
+From the slow and melancholy songs, my favorites are:
+- Red is the Rose
+  -[Nanci Griffith and The Chieftains]
+    (https://www.youtube.com/watch?v=fQbYtBHj4bE)
+  - [Liam Clancy and Tommy Makem]
+    (https://www.youtube.com/watch?v=_KPfB_PRYlY)
