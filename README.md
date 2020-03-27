@@ -1,2 +1,2 @@
 # zishiwu123.github.io
-Personal Website of Zishi Wu
+Personal Blog of Zishi Wu
