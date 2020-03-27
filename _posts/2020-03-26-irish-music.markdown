@@ -59,7 +59,5 @@ From the fast and upbeat songs, my favorites are:
 
 From the slow and melancholy songs, my favorites are:
 - `Red is the Rose`
-  -[Nanci Griffith and The Chieftains]
-    (https://www.youtube.com/watch?v=fQbYtBHj4bE)
-  - [Liam Clancy and Tommy Makem]
-    (https://www.youtube.com/watch?v=_KPfB_PRYlY)
+  - [Nanci Griffith and The Chieftains](https://www.youtube.com/watch?v=fQbYtBHj4bE)
+  - [Liam Clancy and Tommy Makem](https://www.youtube.com/watch?v=_KPfB_PRYlY)
