@@ -11,7 +11,7 @@ playing [The Drunken Sailor](https://www.youtube.com/watch?v=2dwDXtRcTQI).
 We all laughed at the stanza: 
 
 `Put a spiny lobster in his britches, put a spiny lobster in his britches`
-`put a spiny lobster in his britches, early in the morning.`
+`Put a spiny lobster in his britches, early in the morning.`
 
 But it was the next two songs that got me hooked on Irish music. 
 
@@ -21,13 +21,22 @@ The narrator is a young man who recounts meeting a beautiful woman named
 Rosie McCann, near Banbridge town in County Down. I looked this up and 
 [Banbridge](https://en.wikipedia.org/wiki/Banbridge) is a real town in
 Northern Ireland, and County Down is a real county! At the end of the song 
-he plans to dress in his best Sunday clothes to win her over at the Harvest
+he plans to dress in his Sunday clothes to win her over at the Harvest
 Fair.
 
-Some of the best favorite performances of this song have been done by:
+Some of my favorite performances of this song have been done by:
 [The Angelo Family](https://www.youtube.com/watch?v=mkTI1L2Ap3s)
 [Fianne](https://www.youtube.com/watch?v=VOTz8RGfdg8)
 [The Coach House Family](https://www.youtube.com/watch?v=f1Dp20CG6rw)
 
 The second was a slower, whistful song called 
 [The Black Velvet Band](https://www.youtube.com/watch?v=ejdAoEDhqMA).
+The narrator is another young man, albeit far unluckier than the previous
+man. He too meets a beautiful woman, but she is an escort who robs a gold 
+watch and puts it in his pocket. He is deemed guilty by a jury the next 
+Monday and sentenced to "seven years of penal servitude" in
+[Van Dieman's Land](https://en.wikipedia.org/wiki/Van_Diemen%27s_Land),
+which is now the island of Tasmania off the coast of Australia.
+
+My favorite performance of this song has been done by:
+[Luke Kelly and The Dubliners](https://www.youtube.com/watch?v=CBRQM0vErH8)
