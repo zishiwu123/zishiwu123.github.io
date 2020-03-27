@@ -59,9 +59,9 @@ From the fast and upbeat songs, my favorites are:
 From the slow and whistful songs, my favorites are:
 - `Red is the Rose`
   - [Nanci Griffith and The Chieftains](https://www.youtube.com/watch?v=fQbYtBHj4bE)
-  	(this is sung from a woman's perspective)
+  	(sung from a woman's perspective)
   - [Liam Clancy and Tommy Makem](https://www.youtube.com/watch?v=_KPfB_PRYlY)
-  	(this performance is the epitome of whistful Irish tunes)
+  	(the epitome of whistful Irish tunes)
 
 From the mixed songs that are rather fast but still whistful:
 - `The Nightingale`
