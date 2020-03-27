@@ -6,6 +6,8 @@ categories: music
 ---
 The first time I was touched when listening to Irish music was at the 
 [Renaissance Fair](http://www.ren-fest.com/) in Deerfield Beach, FL. 
+It was a weekend in March 2017, and I was exploring the Renaissance Fair
+for the first time with my friends, who had gone the previous year.
 A band called the Crimson Pirates stepped up to an open stage and began
 playing [The Drunken Sailor](https://www.youtube.com/watch?v=2dwDXtRcTQI).
 We all laughed at the stanza: 
@@ -40,3 +42,15 @@ which is now the island of Tasmania off the coast of Australia.
 
 My favorite performance of this song has been done by:
 - [Luke Kelly and The Dubliners](https://www.youtube.com/watch?v=CBRQM0vErH8)
+
+Ever since I heard these songs, I've been listening to different Irish 
+performers adapt the folk songs of their country. Suprisingly, the songs 
+usually fit two categories: either they are fast and upbeat like 
+`The Star of the County Down` or they are slow and whistful like 
+`The Black Velvet Band`. Some songs are a mix of the two styles.
+
+From the fast and upbeat songs, my favorites are:
+- I'll Tell Me Ma
+  - [The Clancy Brothers](https://www.youtube.com/watch?v=Y-wAmgxLdYo)
+  - [Fianne](https://www.youtube.com/watch?v=to02fQV5fzA)
+  - [Tommy Makem & Barley Bree](https://www.youtube.com/watch?v=zXspcpsKHtw)
