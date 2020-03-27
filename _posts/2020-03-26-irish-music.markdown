@@ -55,20 +55,16 @@ From the fast and upbeat songs, my favorites are:
   - [The Clancy Brothers](https://www.youtube.com/watch?v=Y-wAmgxLdYo)
   - [Fianne](https://www.youtube.com/watch?v=to02fQV5fzA)
   - [Tommy Makem & Barley Bree](https://www.youtube.com/watch?v=zXspcpsKHtw)
-  	This rendition is of a children's song.
 
 From the slow and whistful songs, my favorites are:
 - `Red is the Rose`
   - [Nanci Griffith and The Chieftains](https://www.youtube.com/watch?v=fQbYtBHj4bE)
-  	This rendition is from the woman's perspective.
+  	(this is sung from a woman's perspective)
   - [Liam Clancy and Tommy Makem](https://www.youtube.com/watch?v=_KPfB_PRYlY)
-  	This rendition is the epitome of whistful Irish tunes.
+  	(this performance is the epitome of whistful Irish tunes)
 
 From the mixed songs that are rather fast but still whistful:
 - `The Nightingale`
   - [The Clancy Brothers](https://www.youtube.com/watch?v=AG6PuuX7TEI) 
-  	  This rendition is gentle.
   - [Charlotte Cumberbirch](https://www.youtube.com/watch?v=zKvh2uXT_L0)
-      This rendition is lively.
   - [The Dubliners](https://www.youtube.com/watch?v=YZlmbwhpo30)
-  	  This rendition is rather rustic.
