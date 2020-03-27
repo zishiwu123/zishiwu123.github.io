@@ -27,7 +27,8 @@ Northern Ireland, and County Down is a real county! At the end of the song
 he plans to dress in his Sunday clothes to win her over at the Harvest
 Fair.
 
-Some of my favorite performances of this song have been done by:
+Some of my favorite performances of `The Star of the County Down` have 
+been done by:
 - [The Coach House Family](https://www.youtube.com/watch?v=f1Dp20CG6rw)
 - [The Angelo Family](https://www.youtube.com/watch?v=mkTI1L2Ap3s)
 
@@ -40,7 +41,7 @@ Monday and sentenced to "seven years of penal servitude" in
 [Van Dieman's Land](https://en.wikipedia.org/wiki/Van_Diemen%27s_Land),
 which is now the island of Tasmania off the coast of Australia.
 
-My favorite performance of this song has been done by:
+My favorite performance of `The Black Velvet Band` has been done by:
 - [Luke Kelly and The Dubliners](https://www.youtube.com/watch?v=CBRQM0vErH8)
 
 Ever since I heard these songs, I've been listening to different Irish 
@@ -50,14 +51,14 @@ usually fit two categories: either they are fast and upbeat like
 `The Black Velvet Band`. Some songs are a mix of the two styles.
 
 From the fast and upbeat songs, my favorites are:
-- I'll Tell Me Ma
+- `I'll Tell Me Ma`
   - [The Clancy Brothers](https://www.youtube.com/watch?v=Y-wAmgxLdYo)
   - [Fianne](https://www.youtube.com/watch?v=to02fQV5fzA)
   - [Tommy Makem & Barley Bree](https://www.youtube.com/watch?v=zXspcpsKHtw)
 
 
 From the slow and melancholy songs, my favorites are:
-- Red is the Rose
+- `Red is the Rose`
   -[Nanci Griffith and The Chieftains]
     (https://www.youtube.com/watch?v=fQbYtBHj4bE)
   - [Liam Clancy and Tommy Makem]
