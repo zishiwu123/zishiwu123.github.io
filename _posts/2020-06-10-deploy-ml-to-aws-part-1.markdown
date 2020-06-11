@@ -18,6 +18,6 @@ console. AWS provides many different services, but to keep things simple, we
 will only use the EC2 service. For this tutorial, we will set up an EC2
 instance that runs an Ubuntu 18.04 LTS server.
 
-![AWS Management Console]({{ site.url }}/images/1-aws-console.png)
+![AWS Management Console]({{ site.url }}/assets/1-aws-console.png)
 
 Setup instructions below.
