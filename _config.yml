@@ -21,8 +21,9 @@
 title: Zishi Wu's Blog
 email: zishiwu123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! I am a graduate student at the University of Miami and a big fan of 
-  Irish music.
+  Hello! I am a graduate student in the Computer Science department at
+  the University of Miami. My career goal is to work as a data scientist.
+  In my spare time, I enjoy playing folk music on the guitar.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
@@ -33,6 +34,10 @@ linkedin_username: zishi-wu
 theme: minima
 plugins:
   - jekyll-feed
+
+# Include the following directory's files.
+include:
+  - "_images"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
