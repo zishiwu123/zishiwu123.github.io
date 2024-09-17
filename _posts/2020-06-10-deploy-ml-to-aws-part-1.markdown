@@ -2,7 +2,7 @@
 layout: post
 title: "Deploying a Machine Learning Project to AWS - Part 1"
 date: 2020-06-10 09:41:00 -0000
-categories: data-science
+categories: aws
 ---
 Recently, I figured out how to deploy a machine learning project written in
 Python to an Amazon Web Service (AWS) EC2 instance. A member of the Real Python
