@@ -21,9 +21,10 @@
 title: Zishi Wu's Blog
 email: zishiwu123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! I am a graduate student in the Computer Science department at
-  the University of Miami. My career goal is to work as a data scientist.
-  In my spare time, I enjoy playing folk music on the guitar.
+  Hello! My name is Zishi and I work as a Software Engineer specializing in
+  full stack web development. This is my blog to discuss learnings from
+  software development, as well as my other interests. In my free time,
+  I enjoy playing the guitar and walking in nature.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
