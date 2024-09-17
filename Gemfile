@@ -26,5 +26,7 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-
+# NOTE: need to comment out gem "wdm" to prevent error when running "bundle update"
+# An error occurred while installing wdm (0.1.1), and Bundler cannot continue.
+# See https://talk.jekyllrb.com/t/newbie-problems-with-wdm-errors/9233/4
+# gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
